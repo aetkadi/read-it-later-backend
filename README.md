@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a team project for the course ITI0302 Tarkvaraarenduse Projekt at TalTech. The creators are Aet-Kadi Kald, Karoliina Kannik and Faina Dõmša. This is a backend application built with Java and Gradle. This README will guide you through the steps to build, run, and Dockerize the application.
+This is a team project for the course ITI0302 Veebirakenduse projekt at TalTech. The creators are Aet-Kadi Kald, Karoliina Kannik and Faina Dõmša. This is a backend application built with Java and Gradle. This README will guide you through the steps to build, run, and Dockerize the application.
 
 ## Project introduction
 
